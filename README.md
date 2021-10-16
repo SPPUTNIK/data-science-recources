@@ -4,6 +4,7 @@ CONTENTS OF THIS FILE
  * Introduction
  * Code
  * Mathematics
+ * Frameworks and Libraries
  * Data Science Resources
  * Problems
  * Maintainers
@@ -60,6 +61,23 @@ This include Youtube videos, Courses, Books, Intractive Websites...
 
    - [How to build a good understanding of math for machine learning?](https://twitter.com/TivadarDanka/status/1426158532311896067)
 
+## Frameworks and Libraries
+
+   - 1.  Numpy
+         - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&t=974s)
+         - [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1217s)
+         - [NumPy fundamentals](https://numpy.org/doc/stable/user/basics.html)
+         - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
+
+   - 2.  Pandas
+         - [Introduction to Data Processing In Pandas](https://www.youtube.com/watch?v=5rNu16O3YNE&t=8s)
+         - [Introduction Into Pandas](https://www.python-course.eu/pandas.php)
+         - [Pandas Docs](https://pandas.pydata.org/docs/user_guide/index.html)
+   
+   - 3. Matplotlib
+         - [Introduction to matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY&t=5051s)
+         - [matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
+         - [Introduction to matplotlib](https://matplotlib.org/stable/tutorials/index.html)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
