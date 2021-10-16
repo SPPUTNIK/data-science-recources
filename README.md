@@ -1,9 +1,22 @@
-## data-science-recources
+CONTENTS OF THIS FILE
+---------------------
+
+ * Introduction
+ * Code
+ * Mathematics
+ * Data Science Resources
+ * Problems
+ * Maintainers
+
+---------------------
+
+
+## Introduction
 In the repository we share some of the most free and popular resources to learn all about data science.
+This include Youtube videos, Courses, Books, Intractive Websites...
+   
 
-## Machine Learning Resources:    
-
-### Code :    
+## Code :    
 -  Beginner:   
      - Course List:    
          - [ Python Tutorial - Python for Beginners [Full Course] ](https://www.youtube.com/watch?v=_uQrJ0TkZlc)   
@@ -13,7 +26,7 @@ In the repository we share some of the most free and popular resources to learn 
          - [ Learn Python for STEM Applications ](https://www.pythonlikeyoumeanit.com/)    
 ---
 
-### - Mathematics    
+## - Mathematics    
 
 
 
