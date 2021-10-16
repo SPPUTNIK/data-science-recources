@@ -1,4 +1,4 @@
-# data-science-recources
+## data-science-recources
 In the repository we share some of the most free and popular resources to learn all about data science.
 
 ## Machine Learning Resources:    
@@ -13,3 +13,12 @@ In the repository we share some of the most free and popular resources to learn 
          - [ Learn Python for STEM Applications ](https://www.pythonlikeyoumeanit.com/)    
 
 ### - Mathematics    
+
+
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+[MIT](https://github.com/alanturingaiclub/data-science-recources/blob/main/LICENSE)
