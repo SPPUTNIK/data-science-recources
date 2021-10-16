@@ -23,7 +23,8 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [ Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8&t=111s)    
          - [ Learn Python - Full Course for Beginners [Tutorial] ](https://www.youtube.com/watch?v=rfscVS0vtbw)    
          - [ Python Machine Learning Tutorial (Data Science) ](https://www.youtube.com/watch?v=7eh4d6sabA0&t=8s)    
-         - [ Learn Python for STEM Applications ](https://www.pythonlikeyoumeanit.com/)    
+         - [ Learn Python for STEM Applications ](https://www.pythonlikeyoumeanit.com/)   
+         - [Learn Jupyter notebook ](https://www.youtube.com/watch?v=HW29067qVWk)   
          - [ Jupyter Notebook Tutorial: The Definitive Guide ](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook?utm_source=adwords_ppc&utm_campaignid=1455363063&utm_adgroupid=65083631748&utm_device=c&utm_keyword=&utm_matchtype=b&utm_network=g&utm_adpostion=1t1&utm_creative=332602034364&utm_targetid=dsa-473406581035&utm_loc_interest_ms=&utm_loc_physical_ms=9062010&gclid=EAIaIQobChMIoaXS25Xb4AIVSRSPCh2q9w23EAAYASAAEgJZSvD_BwE)
 ---
 
