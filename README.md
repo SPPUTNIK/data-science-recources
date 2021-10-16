@@ -26,8 +26,13 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [ Learn Python for STEM Applications ](https://www.pythonlikeyoumeanit.com/)    
 ---
 
-## - Mathematics    
-
+## Mathematics    
+   -  Linear Algebra
+         - [Essence Of Linear Algebra by 3blue1brown](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B&ab_channel=3Blue1Brown) 
+         - [MIT 18.06SC Linear Algebra](https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PL221E2BBF13BECF6C&ab_channel=MITOpenCourseWare)
+         - [M4ML - Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&ab_channel=DigitalLearningHub-ImperialCollegeLondon)
+         - [Linear Algebra for Machine Learning](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn)
+         - [Linear Algebra By Khan Academy](https://www.khanacademy.org/math/linear-algebra)
 
 
 ## Contributing
