@@ -33,6 +33,12 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [M4ML - Linear Algebra](https://www.youtube.com/watch?v=T73ldK46JqE&list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3&ab_channel=DigitalLearningHub-ImperialCollegeLondon)
          - [Linear Algebra for Machine Learning](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn)
          - [Linear Algebra By Khan Academy](https://www.khanacademy.org/math/linear-algebra)
+         - [Computational Linear Algebra By Rachel Thomas](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+   - Calculus
+         - [Essence Of Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x&ab_channel=3Blue1Brown) 
+         - [Multivariate Calculus](https://www.youtube.com/watch?v=cWZLPv4ZJhE&list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23&ab_channel=DigitalLearningHub-ImperialCollegeLondon)
+         - [Calculus for ML By Jon Krohn](https://www.youtube.com/watch?v=en6cnMEviSU&list=PLRDl2inPrWQVu2OvnTvtkRpJ-wz-URMJx&ab_channel=JonKrohn)
+         - [Calculus By Khan Academy](https://www.khanacademy.org/math/calculus-1)
 
 
 ## Contributing
