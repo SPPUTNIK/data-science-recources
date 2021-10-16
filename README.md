@@ -50,7 +50,7 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [MIT 18.650](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLhCZ6hqIXyidtb9wNpBxLB5AuBcLTg7-S&ab_channel=MITOpenCourseWare)
          - [Statistics and Probability By Khan Academy](https://www.khanacademy.org/math/statistics-probability/)
          - [MIT Introduction to Probability](https://www.youtube.com/watch?v=1uW3qMFA9Ho&list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6&ab_channel=MITOpenCourseWare)
-         - (Interactive Guide to Learn Probability and Stats)[https://seeing-theory.brown.edu/basic-probability/index.html]
+         - [Interactive Guide to Learn Probability and Stats](https://seeing-theory.brown.edu/basic-probability/index.html)
    
    - 4.  Neural Networks
          - [Neural Networks By 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
