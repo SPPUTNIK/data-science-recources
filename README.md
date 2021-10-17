@@ -64,20 +64,36 @@ This include Youtube videos, Courses, Books, Intractive Websites...
 ## Frameworks and Libraries
 
    - 1.  Numpy
+
          - [Introduction to Numerical Computing with NumPy](https://www.youtube.com/watch?v=ZB7BZMhfPgk&t=974s)
          - [Python NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI&t=1217s)
          - [NumPy fundamentals](https://numpy.org/doc/stable/user/basics.html)
          - [Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 
    - 2.  Pandas
+
          - [Introduction to Data Processing In Pandas](https://www.youtube.com/watch?v=5rNu16O3YNE&t=8s)
          - [Introduction Into Pandas](https://www.python-course.eu/pandas.php)
          - [Pandas Docs](https://pandas.pydata.org/docs/user_guide/index.html)
    
    - 3. Matplotlib
+
          - [Introduction to matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY&t=5051s)
          - [matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
          - [Introduction to matplotlib](https://matplotlib.org/stable/tutorials/index.html)
+   - 4. Scikit-Learn 
+   
+         - [TensorFlow Complete Course - Python Neural Networks for Beginners Tutorial ](https://www.youtube.com/watch?v=tPYj3fFJGjk&ab_channel=freeCodeCamp.org)
+         - [Scikit-Learn Crash Course](https://www.youtube.com/watch?v=0B5eIE_1vpU&t=33s&ab_channel=freeCodeCamp.org)
+         - [Scikit-Learn Tutorial By scikit-learn.org](https://scikit-learn.org/stable/tutorial/index.html)
+         - [Pytho Machine Learning - Scikit-Learn Tutorial By Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-python)
+
+- 4. Tensorflow
+   
+         - [Scikit-Learn Course By freecodecamp ](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=45s&ab_channel=freeCodeCamp.org)
+         - [Learn TensorFlow and Deep Learning fundamentals with Python](https://www.youtube.com/watch?v=tpCFfeUEGs8&t=53s&ab_channel=DanielBourke)
+         - [Scikit-Learn Tutorial By scikit-learn.org](https://scikit-learn.org/stable/tutorial/index.html)
+         - [Pytho Machine Learning - Scikit-Learn Tutorial By Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-python) 
 ## Machine Learning  
 
    - 1. Beginner
