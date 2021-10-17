@@ -79,13 +79,23 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
          - [Introduction to matplotlib](https://matplotlib.org/stable/tutorials/index.html)
 ## Machine Learning  
+
+   - 1. Beginner
+
          - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
          - [Kaggle Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
          - [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
-          - [Machine Learning By Stanford](https://www.coursera.org/learn/machine-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
+
+   - 2. Intermediate
+
+         - [Machine Learning By Stanford](https://www.coursera.org/learn/machine-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
+         - [Stanford CS229](https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU&ab_channel=stanfordonline)
          - [Kaggle Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
          - [Part 1: Practical Deep Learning For Coder By fast.ai](https://course.fast.ai/)
          - [Part 2: Deep Learning from the Foundations By fast.ai](https://course19.fast.ai/part2)
+
+   - 3. Advanced
+
          - [deeplearning.ai Specialization] (https://www.deeplearning.ai/program/deep-learning-specialization/)
          - [Elements of Statistical Learning](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V&ab_channel=DataScienceAnalytics)
 ## Contributing
