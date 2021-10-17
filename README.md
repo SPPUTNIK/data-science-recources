@@ -78,7 +78,16 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [Introduction to matplotlib](https://www.youtube.com/watch?v=Tr4DYo4v5AY&t=5051s)
          - [matplotlib Crash Course](https://www.youtube.com/watch?v=3Xc3CA655Y4)
          - [Introduction to matplotlib](https://matplotlib.org/stable/tutorials/index.html)
-
+## Machine Learning  
+         - [Kaggle Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning)
+         - [Kaggle Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+         - [Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+          - [Machine Learning By Stanford](https://www.coursera.org/learn/machine-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
+         - [Kaggle Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+         - [Part 1: Practical Deep Learning For Coder By fast.ai](https://course.fast.ai/)
+         - [Part 2: Deep Learning from the Foundations By fast.ai](https://course19.fast.ai/part2)
+         - [deeplearning.ai Specialization] (https://www.deeplearning.ai/program/deep-learning-specialization/)
+         - [Elements of Statistical Learning](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V&ab_channel=DataScienceAnalytics)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
