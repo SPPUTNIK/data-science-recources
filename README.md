@@ -83,17 +83,18 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [Introduction to matplotlib](https://matplotlib.org/stable/tutorials/index.html)
    - 4. Scikit-Learn 
    
-         - [TensorFlow Complete Course - Python Neural Networks for Beginners Tutorial ](https://www.youtube.com/watch?v=tPYj3fFJGjk&ab_channel=freeCodeCamp.org)
+         - [Scikit-Learn Course By FreeCodeCamp](https://www.youtube.com/watch?v=tPYj3fFJGjk&ab_channel=freeCodeCamp.org)
          - [Scikit-Learn Crash Course](https://www.youtube.com/watch?v=0B5eIE_1vpU&t=33s&ab_channel=freeCodeCamp.org)
          - [Scikit-Learn Tutorial By scikit-learn.org](https://scikit-learn.org/stable/tutorial/index.html)
          - [Pytho Machine Learning - Scikit-Learn Tutorial By Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-python)
 
 - 4. Tensorflow
    
-         - [Scikit-Learn Course By freecodecamp ](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=45s&ab_channel=freeCodeCamp.org)
+         - [TensorFlow Complete Course - Python Neural Networks for Beginners Tutorial ](https://www.youtube.com/watch?v=pqNCD_5r0IU&t=45s&ab_channel=freeCodeCamp.org)
          - [Learn TensorFlow and Deep Learning fundamentals with Python](https://www.youtube.com/watch?v=tpCFfeUEGs8&t=53s&ab_channel=DanielBourke)
-         - [Scikit-Learn Tutorial By scikit-learn.org](https://scikit-learn.org/stable/tutorial/index.html)
-         - [Pytho Machine Learning - Scikit-Learn Tutorial By Datacamp](https://www.datacamp.com/community/tutorials/machine-learning-python) 
+         - [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+         - [Learn ML by tensorflow.org](https://www.tensorflow.org/resources/learn-ml) 
+
 ## Machine Learning  
 
    - 1. Beginner
