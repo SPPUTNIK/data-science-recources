@@ -96,7 +96,7 @@ This include Youtube videos, Courses, Books, Intractive Websites...
 
    - 3. Advanced
 
-         - [deeplearning.ai Specialization] (https://www.deeplearning.ai/program/deep-learning-specialization/)
+         - [deeplearning.ai Specialization](https://www.deeplearning.ai/program/deep-learning-specialization/)
          - [Elements of Statistical Learning](https://www.youtube.com/watch?v=5N9V07EIfIg&list=PLOg0ngHtcqbPTlZzRHA2ocQZqB1D_qZ5V&ab_channel=DataScienceAnalytics)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
