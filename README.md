@@ -41,6 +41,7 @@ This include Youtube videos, Courses, Books, Intractive Websites...
          - [Linear Algebra for Machine Learning](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a&ab_channel=JonKrohn)
          - [Linear Algebra By Khan Academy](https://www.khanacademy.org/math/linear-algebra)
          - [Computational Linear Algebra By Rachel Thomas](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
+         - [A Primer (or Refresher) On Linear Algebra for Data Science](https://www.youtube.com/watch?v=Qz58vTa8-SY&ab_channel=PyData)
 
 - 2.  Calculus
 
