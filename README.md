@@ -9,7 +9,6 @@ CONTENTS OF THIS FILE
  * Cool Resources.
  * Problems
  * Maintainers
- * 
 
 ---------------------
 
